@@ -1,1 +1,1 @@
-# docker-selenium-grid
+# Exemplo de Selenium Grid com Docker
